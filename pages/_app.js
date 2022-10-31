@@ -8,8 +8,8 @@ function MyApp({ Component, pageProps }) {
         <>
             <Head>
                 {/* <!-- Global site tag (gtag.js) - Google Analytics --> */}
-                <script async src="https://www.googletagmanager.com/gtag/js?id=G-2QZDPX3BLK"></script>
-                <script
+                {/* <script async src="https://www.googletagmanager.com/gtag/js?id=G-2QZDPX3BLK"></script> */}
+                {/* <script
                     dangerouslySetInnerHTML={{
                         __html: `
                             window.dataLayer = window.dataLayer || [];
@@ -18,7 +18,7 @@ function MyApp({ Component, pageProps }) {
                             gtag('config', 'G-2QZDPX3BLK');
                         `
                     }}
-                />
+                /> */}
 
 
                 <link rel="preconnect" href="https://fonts.googleapis.com" />
